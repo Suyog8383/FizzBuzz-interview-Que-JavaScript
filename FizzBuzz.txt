@@ -1,0 +1,5 @@
+1.loop from 1 to 100
+2.print the number 1-100 but,
+3.if number is multiple of 3 and 5 print "FizzBuzz".
+4.if number is multiple of 3 print "Fizz".
+5.if number is multiple of 5 print "Buzz".
